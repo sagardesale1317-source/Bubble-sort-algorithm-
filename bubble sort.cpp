@@ -37,3 +37,18 @@ int main()
     }
 
     return (0);
+
+// PS D:\Sagar> cd "d:\Sagar\" ; if ($?) { g++ tempCodeRunnerFile.cpp -o tempCodeRunnerFile } ; if ($?) { .\tempCodeRunnerFile }
+// How many elements 5
+// Enter 5 Elements
+// 88
+// 66
+// 99
+// 23
+// 11
+// Sorted list is 
+// 11
+// 23
+// 66
+// 88
+// 99
